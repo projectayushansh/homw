@@ -13,7 +13,6 @@
 /* #logo{
     margin: 10px 34px;
 }
-
 #logo img{
     height: 59px;
     margin: 3px 6px;
@@ -269,13 +268,14 @@ color:white;
 }
 #contactus{
     border:solid 2px rgb(207 223 242);
-    height:585px;
+    height:590px;
     background-color: rgb(207 223 242);
 }
 #contactus h1{
     text-align: center;
     margin-top:100px;
-    font-family: Arial, Helvetica, sans-serif;
+    font-family: Helvetica, sans-serif;
+    
 }
 #contactus p{
     text-align: center;
@@ -283,19 +283,28 @@ color:white;
     font-family: Arial, Helvetica, sans-serif;
 } 
 .form{
-    width: 40%;
+    width: 35%;
     height: 30px;
 }
 #msg{
-    width: 40%;
+    width: 35%;
 }
 #submitmsg{
     cursor: pointer;
-    background-color: #e34331;
+    background-color: #759ce4;
     border:0px;
     padding:12px;
-    margin-bottom:12px;
+    margin-bottom:42px;
+    border-radius: 10px;
+
 }
 #submitmsg:hover{
     background-color: rgba(248, 11, 11, 0.589);
+}
+#footer{
+    /* position: fixed; */
+    text-align: center;
+    margin: 10px;
+    background-color: burlywood;
+
 }
