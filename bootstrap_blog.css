@@ -1,0 +1,35 @@
+
+#head{
+    
+    
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    padding:23px;
+   }
+
+   #p
+   {
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+   }
+   /* #main{
+    background-image: url("img1.webp");
+   background-repeat: no-repeat;
+   background-size: cover;
+      height: 800px;
+} */
+/* #to-doimage
+{
+    margin-left: auto;
+} */
+#car
+{
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    /* display: flex;
+    align-items: center;  */
+}
+#footer{
+    /* position: fixed; */
+    text-align: center;
+    margin: 10px;
+    background-color: burlywood;
+
+}
